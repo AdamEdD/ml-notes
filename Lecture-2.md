@@ -38,12 +38,12 @@ _The objective is to maximize future rewards based on current actions_
 
 ##### Data
 
-    input   ->  output
+input   ->  output
     
-    x<sup>i</sup> -> z<sup>(i)</sup>
-      . 
-      .
-    x<sup>(m)</sup> -> z<sup>(i)</sup>
+x<sup>i</sup> -> z<sup>(i)</sup> <br>
+. <br>
+. <br>
+x<sup>(m)</sup> -> z<sup>(i)</sup>
     
 \vec{z} = f(x;w) = wx + b = w_{1}x + w_{0} = w_{1}x + \theta = [w_{0} w_{1}] \binom{1}{x}
 
@@ -55,6 +55,8 @@ The objective is to minimize the sum squared error
 ![min point](min.jpg)
 
 ![linear regression derivative](linear_regression_derivative.jpg)
+
+
 
 
 
