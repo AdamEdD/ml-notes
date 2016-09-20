@@ -26,7 +26,7 @@ _The objective is to maximize future rewards based on current actions_
 
 #### Supervised Learning Algorithms (Regression)
 
-![regression diagram](http://img.blog.csdn.net/20160213170141591)
+![regression diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/2000px-Linear_regression.svg.png)
 
 ##### boiler plate:
 - [overfitting](https://en.wikipedia.org/wiki/Overfitting) (high variance can cause overfitting)
