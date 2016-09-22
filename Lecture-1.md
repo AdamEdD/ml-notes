@@ -1,4 +1,4 @@
-## Machine Learning and Neural Networks - cs401 - Barack Pearlmutter
+## Machine Learning and Neural Networks - cs401 - Barak Pearlmutter
 
 ### Lecture 1
 

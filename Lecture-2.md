@@ -1,4 +1,4 @@
-## Machine Learning and Neural Networks - cs401 - Barack Pearlmutter
+## Machine Learning and Neural Networks - cs401 - Barak Pearlmutter
 
 ### Lecture 2
 
@@ -55,9 +55,6 @@ The objective is to minimize the sum squared error
 ![min point](min.jpg)
 
 ![linear regression derivative](linear_regression_derivative.jpg)
-
-
-
 
 
 
